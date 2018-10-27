@@ -31,3 +31,5 @@
     Source: [mooreNeighbour.js](./mooreNeighbour.js)
 
 ## Free Swag
+
+![Image of Free Goodies from Equal Experts](https://i.imgur.com/qnlp9sM.jpg)
