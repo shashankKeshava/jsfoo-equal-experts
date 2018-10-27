@@ -1,0 +1,11 @@
+{
+    "name": "equal_experts",
+    "version": "1.0.0",
+    "description": "Equal Experts Coding Challenge at JSFoo 2018",
+    "main": "app.test.js",
+    "scripts": {
+        "test": "node app.test.js"
+    },
+    "author": "Shashank Keshava <keshavashashank@gmail.com>",
+    "license": "ISC"
+}
